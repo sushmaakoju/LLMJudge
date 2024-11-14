@@ -1,3 +1,5 @@
+**Note:** This fork is only for running the baseline on Google Colab with minor bugfixes to help a team. This was **not** a participation in the competition.
+
 # LLMJudge
 Automatic Relevance Judgments for Search and Retrieval Systems
 
