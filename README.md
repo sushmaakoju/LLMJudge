@@ -1,4 +1,4 @@
-**Note:** This fork is only for running the baseline on Google Colab with minor bugfixes to help a team. This was **not** a participation in the competition.
+**Note:** This fork is only for running the baseline on Google Colab with minor bug fixes to help a team. This was **not** a participation in the competition. Not many people are aware of Immigration policies surrounding competition participation as an International Student. Also to all those who are not informed about Immigration policies, International students may **not be allowed** to participate in competitions for-profit or non-profit. The enforcement of these rules already differs from one State to another. If the competition is part of a course project for the entire class, it **may be allowed** to participate. However, if you receive invitations to participate in competitions outside of a course, please contact your University's immigration department or contact an Immigration attorney. Kindly do not contact me about this competition as I did not participate in this. Thanks in advance. 
 
 # LLMJudge
 Automatic Relevance Judgments for Search and Retrieval Systems
